@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "646a219d-7c73-4f46-9647-83a8536fc27e": {
+      "ProjectGuid": "646a219d-7c73-4f46-9647-83a8536fc27e",
+      "DisplayName": "OES",
+      "ColorIndex": 0
+    },
+    "f194c46f-a7f4-4412-9730-8be0bcd4cb41": {
+      "ProjectGuid": "f194c46f-a7f4-4412-9730-8be0bcd4cb41",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "ec0caa8f-18ec-47c0-af26-d51ec97f2be1": {
+      "ProjectGuid": "ec0caa8f-18ec-47c0-af26-d51ec97f2be1",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
